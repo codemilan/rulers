@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "rulers"
   spec.version       = Rulers::VERSION
   spec.authors       = ["Milan Rawal"]
-  spec.email         = ["milan.rawal@bidhee.com"]
+  spec.email         = ["mrawal47@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Ruby web framework based on rack.}
+  spec.description   = %q{This gem mimics rails and is developed for learning purpose about internal working of rails and is simple awesome.}
+  spec.homepage      = "http://www.bizzbotit.com"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
